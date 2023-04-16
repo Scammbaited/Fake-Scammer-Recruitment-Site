@@ -1,4 +1,4 @@
-This is a fake website template designed to look like a legitimate scammer recruitment site. The purpose of this website is to trick scammers into downloading a remote access trojan (RAT) such as AsyncRAT, LimeRAT, or the Mega Rat Pack, which can be used to gain unauthorized access to their computer or network.
+This is a fake website template designed to look like a legitimate scammer recruitment site. The purpose of this website is to trick scammers into downloading a remote access trojan (RAT) such as AsyncRAT, LimeRAT, or the Mega Rat Pack, You can also use msfvenom and msfconsole which can be used to gain unauthorized access to their computer or network.
 
 To lure scammers into downloading the RAT, there is a downloads section where scammers can download scamming tools, also known as payloads or stubs.
 

@@ -1,3 +1,4 @@
+<h1>What is it?</h1>
 This is a fake website template designed to look like a legitimate scammer recruitment site. The purpose of this website is to trick scammers into downloading a remote access trojan (RAT) such as AsyncRAT, LimeRAT, or the Mega Rat Pack, You can also use msfvenom and msfconsole which can be used to gain unauthorized access to their computer or network.
 
 To lure scammers into downloading the RAT, there is a downloads section where scammers can download scamming tools, also known as payloads or stubs.
@@ -13,3 +14,7 @@ You can also hide your IP address using a website called Playit.gg, which provid
 This repository includes the HTML and CSS code used to create the website. Note that using this website to distribute malware is illegal and unethical and may result in serious legal consequences. This repository is provided for educational and research purposes only and should not be used for any illegal or malicious activity.
 
 As a scambaiter, it is important to use this website with caution and to follow all applicable laws and ethical guidelines. By using this website to trick scammers into downloading a remote access trojan, scambaiters can potentially gather valuable information about scammers and their tactics and help protect others from falling victim to their scams
+<h1>Additional Information</h1>
+In the Downloads.html file, you need to edit lines 23-25 and replace the "#" with your direct download link. 
+Also, this website is a bit broken. I'm pretty sure you'll need to fix it up. If this issue gains attention, I'll work on it. 
+Feel free to ask any questions
